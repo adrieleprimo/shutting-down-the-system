@@ -1,7 +1,7 @@
 
 
 # Shutting Down My System
-<p align="center"><img align="center" width="90" src="assets/shutdown.png"/></p>
+<p align="center"><img align="center" width="90" src="./src/assets/shutdown.png"/></p>
 Just one executable to shut down the system for Linux and Windows.
 
 ## Technologies:
